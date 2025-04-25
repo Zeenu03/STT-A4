@@ -1,0 +1,15 @@
+D:\Courses\STT\dotnet-console-games\Projects\Helicopter\bin\Debug\Helicopter.exe
+D:\Courses\STT\dotnet-console-games\Projects\Helicopter\bin\Debug\Helicopter.deps.json
+D:\Courses\STT\dotnet-console-games\Projects\Helicopter\bin\Debug\Helicopter.runtimeconfig.json
+D:\Courses\STT\dotnet-console-games\Projects\Helicopter\bin\Debug\Helicopter.dll
+D:\Courses\STT\dotnet-console-games\Projects\Helicopter\bin\Debug\Helicopter.pdb
+D:\Courses\STT\dotnet-console-games\Projects\Helicopter\obj\Debug\Helicopter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\STT\dotnet-console-games\Projects\Helicopter\obj\Debug\Helicopter.AssemblyInfoInputs.cache
+D:\Courses\STT\dotnet-console-games\Projects\Helicopter\obj\Debug\Helicopter.AssemblyInfo.cs
+D:\Courses\STT\dotnet-console-games\Projects\Helicopter\obj\Debug\Helicopter.csproj.CoreCompileInputs.cache
+D:\Courses\STT\dotnet-console-games\Projects\Helicopter\obj\Debug\Helicopter.sourcelink.json
+D:\Courses\STT\dotnet-console-games\Projects\Helicopter\obj\Debug\Helicopter.dll
+D:\Courses\STT\dotnet-console-games\Projects\Helicopter\obj\Debug\refint\Helicopter.dll
+D:\Courses\STT\dotnet-console-games\Projects\Helicopter\obj\Debug\Helicopter.pdb
+D:\Courses\STT\dotnet-console-games\Projects\Helicopter\obj\Debug\Helicopter.genruntimeconfig.cache
+D:\Courses\STT\dotnet-console-games\Projects\Helicopter\obj\Debug\ref\Helicopter.dll

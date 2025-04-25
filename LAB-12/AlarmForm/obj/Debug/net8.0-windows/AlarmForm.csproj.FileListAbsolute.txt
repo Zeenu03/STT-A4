@@ -1,0 +1,8 @@
+C:\Users\patel\source\repos\AlarmForm\obj\Debug\net8.0-windows\WindowsFormsAlarmApp.Form1.resources
+C:\Users\patel\source\repos\AlarmForm\obj\Debug\net8.0-windows\AlarmForm.csproj.GenerateResource.cache
+C:\Users\patel\source\repos\AlarmForm\obj\Debug\net8.0-windows\AlarmForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patel\source\repos\AlarmForm\obj\Debug\net8.0-windows\AlarmForm.AssemblyInfoInputs.cache
+C:\Users\patel\source\repos\AlarmForm\obj\Debug\net8.0-windows\AlarmForm.AssemblyInfo.cs
+C:\Users\patel\source\repos\AlarmForm\obj\Debug\net8.0-windows\AlarmForm.csproj.CoreCompileInputs.cache
+C:\Users\patel\source\repos\AlarmForm\obj\Debug\net8.0-windows\AlarmForm.sourcelink.json
+C:\Users\patel\source\repos\AlarmForm\obj\Debug\net8.0-windows\TimeColorChanger.Form1.resources

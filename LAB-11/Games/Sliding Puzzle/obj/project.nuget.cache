@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5fEi0xUHQa4=",
+  "success": true,
+  "projectFilePath": "D:\\Courses\\STT\\dotnet-console-games\\Projects\\Sliding Puzzle\\Sliding Puzzle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\patel\\.nuget\\packages\\towel\\1.0.40\\towel.1.0.40.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+D:\Courses\STT\dotnet-console-games\Projects\Clicker\obj\Debug\Clicker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\STT\dotnet-console-games\Projects\Clicker\obj\Debug\Clicker.AssemblyInfoInputs.cache
+D:\Courses\STT\dotnet-console-games\Projects\Clicker\obj\Debug\Clicker.AssemblyInfo.cs
+D:\Courses\STT\dotnet-console-games\Projects\Clicker\obj\Debug\Clicker.csproj.CoreCompileInputs.cache
+D:\Courses\STT\dotnet-console-games\Projects\Clicker\obj\Debug\Clicker.sourcelink.json
+D:\Courses\STT\dotnet-console-games\Projects\Clicker\bin\Debug\Clicker.exe
+D:\Courses\STT\dotnet-console-games\Projects\Clicker\bin\Debug\Clicker.deps.json
+D:\Courses\STT\dotnet-console-games\Projects\Clicker\bin\Debug\Clicker.runtimeconfig.json
+D:\Courses\STT\dotnet-console-games\Projects\Clicker\bin\Debug\Clicker.dll
+D:\Courses\STT\dotnet-console-games\Projects\Clicker\bin\Debug\Clicker.pdb
+D:\Courses\STT\dotnet-console-games\Projects\Clicker\obj\Debug\Clicker.dll
+D:\Courses\STT\dotnet-console-games\Projects\Clicker\obj\Debug\refint\Clicker.dll
+D:\Courses\STT\dotnet-console-games\Projects\Clicker\obj\Debug\Clicker.pdb
+D:\Courses\STT\dotnet-console-games\Projects\Clicker\obj\Debug\Clicker.genruntimeconfig.cache
+D:\Courses\STT\dotnet-console-games\Projects\Clicker\obj\Debug\ref\Clicker.dll

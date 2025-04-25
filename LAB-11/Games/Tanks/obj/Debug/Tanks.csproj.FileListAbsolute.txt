@@ -1,0 +1,15 @@
+D:\Courses\STT\dotnet-console-games\Projects\Tanks\bin\Debug\Tanks.exe
+D:\Courses\STT\dotnet-console-games\Projects\Tanks\bin\Debug\Tanks.deps.json
+D:\Courses\STT\dotnet-console-games\Projects\Tanks\bin\Debug\Tanks.runtimeconfig.json
+D:\Courses\STT\dotnet-console-games\Projects\Tanks\bin\Debug\Tanks.dll
+D:\Courses\STT\dotnet-console-games\Projects\Tanks\bin\Debug\Tanks.pdb
+D:\Courses\STT\dotnet-console-games\Projects\Tanks\obj\Debug\Tanks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\STT\dotnet-console-games\Projects\Tanks\obj\Debug\Tanks.AssemblyInfoInputs.cache
+D:\Courses\STT\dotnet-console-games\Projects\Tanks\obj\Debug\Tanks.AssemblyInfo.cs
+D:\Courses\STT\dotnet-console-games\Projects\Tanks\obj\Debug\Tanks.csproj.CoreCompileInputs.cache
+D:\Courses\STT\dotnet-console-games\Projects\Tanks\obj\Debug\Tanks.sourcelink.json
+D:\Courses\STT\dotnet-console-games\Projects\Tanks\obj\Debug\Tanks.dll
+D:\Courses\STT\dotnet-console-games\Projects\Tanks\obj\Debug\refint\Tanks.dll
+D:\Courses\STT\dotnet-console-games\Projects\Tanks\obj\Debug\Tanks.pdb
+D:\Courses\STT\dotnet-console-games\Projects\Tanks\obj\Debug\Tanks.genruntimeconfig.cache
+D:\Courses\STT\dotnet-console-games\Projects\Tanks\obj\Debug\ref\Tanks.dll

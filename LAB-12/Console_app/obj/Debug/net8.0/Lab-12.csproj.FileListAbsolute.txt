@@ -1,0 +1,15 @@
+C:\Users\patel\source\repos\Lab-12\bin\Debug\net8.0\Lab-12.exe
+C:\Users\patel\source\repos\Lab-12\bin\Debug\net8.0\Lab-12.deps.json
+C:\Users\patel\source\repos\Lab-12\bin\Debug\net8.0\Lab-12.runtimeconfig.json
+C:\Users\patel\source\repos\Lab-12\bin\Debug\net8.0\Lab-12.dll
+C:\Users\patel\source\repos\Lab-12\bin\Debug\net8.0\Lab-12.pdb
+C:\Users\patel\source\repos\Lab-12\obj\Debug\net8.0\Lab-12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patel\source\repos\Lab-12\obj\Debug\net8.0\Lab-12.AssemblyInfoInputs.cache
+C:\Users\patel\source\repos\Lab-12\obj\Debug\net8.0\Lab-12.AssemblyInfo.cs
+C:\Users\patel\source\repos\Lab-12\obj\Debug\net8.0\Lab-12.csproj.CoreCompileInputs.cache
+C:\Users\patel\source\repos\Lab-12\obj\Debug\net8.0\Lab-12.sourcelink.json
+C:\Users\patel\source\repos\Lab-12\obj\Debug\net8.0\Lab-12.dll
+C:\Users\patel\source\repos\Lab-12\obj\Debug\net8.0\refint\Lab-12.dll
+C:\Users\patel\source\repos\Lab-12\obj\Debug\net8.0\Lab-12.pdb
+C:\Users\patel\source\repos\Lab-12\obj\Debug\net8.0\Lab-12.genruntimeconfig.cache
+C:\Users\patel\source\repos\Lab-12\obj\Debug\net8.0\ref\Lab-12.dll

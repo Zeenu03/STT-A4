@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "e8Ks0gHPQGE=",
+  "success": true,
+  "projectFilePath": "D:\\Courses\\STT\\dotnet-console-games\\Projects\\Console Monsters\\Console Monsters.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\patel\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\patel\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\patel\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512",
+    "C:\\Users\\patel\\.nuget\\packages\\towel\\1.0.40\\towel.1.0.40.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+D:\Courses\STT\dotnet-console-games\Projects\Guess A Number\bin\Debug\Guess A Number.exe
+D:\Courses\STT\dotnet-console-games\Projects\Guess A Number\bin\Debug\Guess A Number.deps.json
+D:\Courses\STT\dotnet-console-games\Projects\Guess A Number\bin\Debug\Guess A Number.runtimeconfig.json
+D:\Courses\STT\dotnet-console-games\Projects\Guess A Number\bin\Debug\Guess A Number.dll
+D:\Courses\STT\dotnet-console-games\Projects\Guess A Number\bin\Debug\Guess A Number.pdb
+D:\Courses\STT\dotnet-console-games\Projects\Guess A Number\obj\Debug\Guess A Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\STT\dotnet-console-games\Projects\Guess A Number\obj\Debug\Guess A Number.AssemblyInfoInputs.cache
+D:\Courses\STT\dotnet-console-games\Projects\Guess A Number\obj\Debug\Guess A Number.AssemblyInfo.cs
+D:\Courses\STT\dotnet-console-games\Projects\Guess A Number\obj\Debug\Guess A Number.csproj.CoreCompileInputs.cache
+D:\Courses\STT\dotnet-console-games\Projects\Guess A Number\obj\Debug\Guess A Number.sourcelink.json
+D:\Courses\STT\dotnet-console-games\Projects\Guess A Number\obj\Debug\Guess A Number.dll
+D:\Courses\STT\dotnet-console-games\Projects\Guess A Number\obj\Debug\refint\Guess A Number.dll
+D:\Courses\STT\dotnet-console-games\Projects\Guess A Number\obj\Debug\Guess A Number.pdb
+D:\Courses\STT\dotnet-console-games\Projects\Guess A Number\obj\Debug\Guess A Number.genruntimeconfig.cache
+D:\Courses\STT\dotnet-console-games\Projects\Guess A Number\obj\Debug\ref\Guess A Number.dll
